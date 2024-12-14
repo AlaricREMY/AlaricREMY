@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AlaricREMY
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning Python and Node.JS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me contact@latania.net
+- 🌱 I’m currently learning Python, Java & Javascript
+- 📫 How to reach me: contact@latania.net
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not fun :)
 
